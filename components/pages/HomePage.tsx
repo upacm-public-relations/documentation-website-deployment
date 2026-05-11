@@ -33,7 +33,7 @@ const quickAccessCards = [
 ];
 
 const recentUpdates = [
-  { title: "UP ACM PubRel Documentation Website", date: "May 2026", badge: "Ongoing" },
+  { title: "UP ACM PubRel Documentation Website", date: "May 2026", badge: "Active" },
   { title: "Partnership Response Automation", date: "May 2026", badge: "Active" },
   { title: "UP ACM PubRel Email Blaster", date: "April 2026", badge: "Active" },
   { title: "GMail Add-On Proposal Reviewer", date: "April 2026", badge: "Active" },
@@ -96,7 +96,7 @@ export function HomePage() {
           <Sparkles className="h-5 w-5 shrink-0 mt-0.5" style={{ color: "#d4a017" }} />
           <div>
             <p className="font-semibold" style={{ color: "var(--foreground)" }}>
-              Welcome to the UP ACM PubRel Documentation System
+              Welcome to the UP ACM PubRel Documentation Website
             </p>
             <p className="text-sm mt-1" style={{ color: "var(--muted-foreground)" }}>
               This is the official internal turnover knowledge base for future Public Relations Heads.
