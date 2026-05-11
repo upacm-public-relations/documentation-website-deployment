@@ -20,6 +20,12 @@ export default function Page() {
           This is the UP ACM PubRel Committee's internal documentation website - the site you're reading right now. It serves as the central knowledge base for all PubRel tools, workflows, and automation projects, making it easier to onboard new members and preserve institutional knowledge across officer terms.
           <br /><br />
           Pages are written in React (TSX) and stored in a GitHub repository. Any changes pushed to the main branch are automatically deployed live via Vercel.
+          <br/>
+          <img 
+            src="/documentation-website.png"
+            alt="System overview" 
+            style={{ width: "100%", borderRadius: "16px", marginTop: "12px" }}
+          />
         </Callout>
 
         {/* Setup & Usage */}
