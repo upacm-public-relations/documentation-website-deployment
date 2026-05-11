@@ -176,12 +176,6 @@ export default function RetrospectivesPage() {
                 <div className="mt-1 ml-5 space-y-1 text-sm text-[var(--muted-foreground)]">
                   <div className="flex items-start gap-2">
                     <ArrowRight size={14} className="mt-1" />
-                    <span>Send to ACMems Automation using GMail Labels similar to the Partnership Reject Automation GMail Label</span>
-                  </div>
-                </div>
-                <div className="mt-1 ml-5 space-y-1 text-sm text-[var(--muted-foreground)]">
-                  <div className="flex items-start gap-2">
-                    <ArrowRight size={14} className="mt-1" />
                     <span>Add Gemini prompt box on GMail Add-on, etc.</span>
                   </div>
                 </div>
