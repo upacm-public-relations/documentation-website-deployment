@@ -181,6 +181,7 @@ export default function RetrospectivesPage() {
                 </div>
               </li>
               <li><strong>Less org partnerships on 1st sem (unless siguro may Easy As Py) then buhos na lahat ng effort for Algolympics 2026</strong></li>
+              <li><strong>You could add an internal automation tool that would verify FB profiles ng org partners if they indeed liked or shared the post</strong></li>
             </ul>
           </div>
         </div>
