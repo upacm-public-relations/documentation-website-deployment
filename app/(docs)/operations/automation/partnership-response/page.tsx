@@ -50,10 +50,10 @@ export default function Page() {
                 (If not yet done) Set up a time-based trigger: go to <span className="font-medium" style={{ color: "var(--foreground)" }}>Triggers → Add Trigger</span>, select <code className="px-1 rounded text-xs" style={{ background: "var(--muted)", color: "var(--foreground)" }}>autoRejectLabeled</code>, and set it to run on your preferred interval (e.g. every 5 or 10 minutes)
               </li>
               <li className="text-sm" style={{ color: "var(--muted-foreground)" }}>
-                Authorize all requested permissions when prompted
+                Click "Test Deployment" (if not yet done) then click Install.
               </li>
               <li className="text-sm" style={{ color: "var(--muted-foreground)" }}>
-                Click "Test Deployment" (if not yet done) then click Install.
+                Authorize all requested permissions when prompted. Once you see the "UP ACM Proposal Reviewer" on GMail Add-ons (right sidebar), open that and click "Grant Permission".
               </li>
             </ol>
           </div>
