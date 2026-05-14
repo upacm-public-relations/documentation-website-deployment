@@ -52,6 +52,9 @@ export default function Page() {
               <li className="text-sm" style={{ color: "var(--muted-foreground)" }}>
                 Authorize all requested permissions when prompted
               </li>
+              <li className="text-sm" style={{ color: "var(--muted-foreground)" }}>
+                Click "Test Deployment" (if not yet done) then click Install.
+              </li>
             </ol>
           </div>
           <div className="space-y-2">
