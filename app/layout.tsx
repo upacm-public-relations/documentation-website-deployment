@@ -3,7 +3,7 @@ import "./globals.css";
 import { ThemeProvider } from "@/components/ThemeProvider";
 
 export const metadata: Metadata = {
-  title: "UP ACM PR Committee Docs",
+  title: "UP ACM PubRel Turnover Committee Docs",
   description: "Internal documentation system for the UP ACM Public Relations Committee",
 };
 
